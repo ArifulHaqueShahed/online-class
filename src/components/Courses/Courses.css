@@ -1,0 +1,18 @@
+.course-container{
+    display: flex;
+}
+.subject-container{
+    
+    width: 60%;
+    margin-top: 3%;
+    margin-left: 6%;
+    box-shadow: 6px 4px 10px gray;
+    padding: 20px 40px;
+    border-radius: 5px;
+    
+
+}
+.cart-container{
+    margin-top: 3%;
+    margin-left: 2%;
+}

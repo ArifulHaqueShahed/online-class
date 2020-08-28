@@ -1,0 +1,31 @@
+.subject{
+    
+    
+    height: 350px;
+    width: 300px;
+    justify-content: center;
+    margin-left: 2%;
+    margin-bottom: 30px;
+    text-align: center;
+    border: none;
+    box-shadow: 6px 4px 10px gray;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+.subject img{
+    width: 100%;
+    height: 50%;
+    border-radius: 5px;
+}
+.subject-reviwer{
+    text-align: left;
+    color: blue;
+}
+.subject-price{
+    text-align: left;
+    margin-left: 17px;
+}
+.btn{
+    margin-left: -65%;
+    margin-top: 10px;
+}

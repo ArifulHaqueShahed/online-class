@@ -1,0 +1,33 @@
+.summary{
+    margin-left: 20px;
+    border: 1px solid gray;
+    background-color: rgb(102, 82, 82);
+    font-weight: 600;
+    position: fixed;
+    height: 450px;
+    padding: 10px;
+    width: 500px;
+    border-radius: 5px;
+    overflow: scroll;
+}
+.headline{
+    text-align: center;
+}
+.summary h2{
+    color: rgb(236, 118, 21);
+    font-weight: 700;
+}
+.summary p,h4{
+    color: white;
+    font-size: large;
+}
+.purchase-button{
+    border: none;
+    background-color: rgb(197, 64, 64);
+    border-radius: 5px;
+    color: white;
+    
+}
+.price-style{
+    text-align: right;
+}
